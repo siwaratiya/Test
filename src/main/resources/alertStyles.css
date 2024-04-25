@@ -1,0 +1,16 @@
+.root {
+    /* Dégradé de couleur de fond */
+    -fx-background-color: linear-gradient(to bottom, #2196F3, #FFFFFF);}
+
+.alert {
+    -fx-background-color: white; /* Couleur de fond */
+    -fx-text-fill: white; /* Couleur du texte */
+}
+
+.alert .header-panel {
+    -fx-background-color: white; /* Couleur de l'en-tête */
+}
+
+.alert .content.label {
+    -fx-text-fill: white; /* Couleur du texte du contenu */
+}

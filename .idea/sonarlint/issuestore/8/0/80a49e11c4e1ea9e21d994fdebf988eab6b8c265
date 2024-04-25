@@ -1,0 +1,8 @@
+
+0
+java:S1220""Move this file to a named package.
+p
+java:S1450"URemove the "driver" field and declare it as a local variable in the relevant methods.(š…ŒÅøÿÿÿÿ
+V	java:S125R"<This block of commented-out lines of code should be removed.(î½Ü‚ÿÿÿÿÿ
+S
+java:S1128"8Remove this unused import 'javafx.application.Platform'.(§“óùÿÿÿÿ
