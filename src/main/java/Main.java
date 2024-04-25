@@ -56,3 +56,13 @@ public class Main extends Application
         return Main.scene;
     }
 }
+
+
+
+
+
+
+
+
+
+<div id="tab_information_usb" class="tab-button" role="tab" aria-selected="false">              <span class="Translation" data-translation="systemInformation.usb.tabtitle">USB</span>        </div>
